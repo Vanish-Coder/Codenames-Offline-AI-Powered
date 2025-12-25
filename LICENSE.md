@@ -2,7 +2,7 @@
 
 ## Acceptance
 
-In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses. Essentially, by downloading/using/playing this game in any way or form, you agree to the following that is listed below.
 
 ## Copyright License
 
