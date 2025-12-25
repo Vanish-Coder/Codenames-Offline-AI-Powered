@@ -1,5 +1,6 @@
 #This is not necessarily AI in the sense of ChatGPT/Gemini. Rather it uses Sentence Transformers (https://sbert.net/), which creates mathemtical vector representations
 #of all the words. It then runs a bunch of mathmetical calclations determiend by a LLM (specifically a NLP) and returns a bunch of best matches for the specific usecase.
+#Also the hint will always comes from a set of potential clues stored in canidate_clues, so in that sense it does have limits.
 
 import json
 import numpy as np
